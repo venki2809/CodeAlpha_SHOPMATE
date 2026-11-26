@@ -1,0 +1,400 @@
+[
+  {
+    "name": "Everyday Cotton Tee",
+    "slug": "everyday-cotton-tee",
+    "category": "Clothing",
+    "price": 899,
+    "originalPrice": 1199,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.8,
+    "reviewCount": 126,
+    "stock": 48,
+    "description": "A beautifully simple crew-neck T-shirt in soft, breathable cotton. Made for repeat wear and easy layering.",
+    "details": [
+      "Soft cotton jersey",
+      "Relaxed everyday fit",
+      "Machine washable"
+    ],
+    "isFeatured": true,
+    "isOffer": true,
+    "_id": "000000000000000000000001",
+    "createdAt": "2026-11-20T00:00:00.000Z"
+  },
+  {
+    "name": "Classic Oxford Shirt",
+    "slug": "classic-oxford-shirt",
+    "category": "Clothing",
+    "price": 1899,
+    "originalPrice": 2499,
+    "image": "https://images.unsplash.com/photo-1598032895397-b9472444bf93?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.7,
+    "reviewCount": 83,
+    "stock": 30,
+    "description": "A refined button-down shirt that moves effortlessly from casual mornings to dressed-up evenings.",
+    "details": [
+      "Structured cotton blend",
+      "Button-down collar",
+      "Regular fit"
+    ],
+    "isFeatured": true,
+    "isOffer": true,
+    "_id": "000000000000000000000002",
+    "createdAt": "2026-11-19T00:00:00.000Z"
+  },
+  {
+    "name": "Relaxed Weekend Hoodie",
+    "slug": "relaxed-weekend-hoodie",
+    "category": "Clothing",
+    "price": 2399,
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.6,
+    "reviewCount": 61,
+    "stock": 22,
+    "description": "Warm without the bulk. A versatile hoodie for relaxed days and cooler nights.",
+    "details": [
+      "Fleece-backed fabric",
+      "Adjustable drawcord",
+      "Kangaroo pocket"
+    ],
+    "isNew": true,
+    "_id": "000000000000000000000003",
+    "createdAt": "2026-11-18T00:00:00.000Z"
+  },
+  {
+    "name": "Easy Fit Denim",
+    "slug": "easy-fit-denim",
+    "category": "Clothing",
+    "price": 2599,
+    "originalPrice": 3299,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.6,
+    "reviewCount": 49,
+    "stock": 28,
+    "description": "The classic jeans you will always reach for, with a comfortable modern silhouette.",
+    "details": [
+      "Durable cotton denim",
+      "Straight leg",
+      "Five-pocket construction"
+    ],
+    "isOffer": true,
+    "_id": "000000000000000000000004",
+    "createdAt": "2026-11-17T00:00:00.000Z"
+  },
+  {
+    "name": "Court Low Sneakers",
+    "slug": "court-low-sneakers",
+    "category": "Shoes",
+    "price": 3499,
+    "originalPrice": 4199,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.9,
+    "reviewCount": 214,
+    "stock": 32,
+    "description": "Statement sneakers with a clean profile, cushioned footbed and all-day support.",
+    "details": [
+      "Comfort-cushioned sole",
+      "Lace-up closure",
+      "Grippy outsole"
+    ],
+    "isFeatured": true,
+    "isOffer": true,
+    "_id": "000000000000000000000005",
+    "createdAt": "2026-11-16T00:00:00.000Z"
+  },
+  {
+    "name": "Retro Runner",
+    "slug": "retro-runner",
+    "category": "Shoes",
+    "price": 3999,
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.8,
+    "reviewCount": 97,
+    "stock": 26,
+    "description": "An easygoing runner with vintage-inspired styling and lightweight everyday comfort.",
+    "details": [
+      "Lightweight construction",
+      "Padded collar",
+      "Everyday traction"
+    ],
+    "isFeatured": true,
+    "_id": "000000000000000000000006",
+    "createdAt": "2026-11-15T00:00:00.000Z"
+  },
+  {
+    "name": "Mono Canvas Low",
+    "slug": "mono-canvas-low",
+    "category": "Shoes",
+    "price": 2299,
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.5,
+    "reviewCount": 42,
+    "stock": 44,
+    "description": "Minimalist low-top shoes that go with everything, from denim to relaxed tailoring.",
+    "details": [
+      "Canvas upper",
+      "Rubber outsole",
+      "Classic low-top shape"
+    ],
+    "isNew": true,
+    "_id": "000000000000000000000007",
+    "createdAt": "2026-11-14T00:00:00.000Z"
+  },
+  {
+    "name": "Daily Motion Trainers",
+    "slug": "daily-motion-trainers",
+    "category": "Shoes",
+    "price": 4299,
+    "originalPrice": 4999,
+    "image": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.7,
+    "reviewCount": 65,
+    "stock": 19,
+    "description": "Breathable trainers made for an active schedule and comfortable commutes.",
+    "details": [
+      "Breathable upper",
+      "Flexible sole",
+      "Cushioned heel"
+    ],
+    "isOffer": true,
+    "_id": "000000000000000000000008",
+    "createdAt": "2026-11-13T00:00:00.000Z"
+  },
+  {
+    "name": "Nordic Minimal Watch",
+    "slug": "nordic-minimal-watch",
+    "category": "Watches",
+    "price": 5999,
+    "originalPrice": 7499,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.8,
+    "reviewCount": 112,
+    "stock": 15,
+    "description": "Understated design with a clear dial and timeless detailing for everyday wear.",
+    "details": [
+      "Minimal analogue dial",
+      "Adjustable strap",
+      "Gift-ready presentation"
+    ],
+    "isFeatured": true,
+    "isOffer": true,
+    "_id": "000000000000000000000009",
+    "createdAt": "2026-11-12T00:00:00.000Z"
+  },
+  {
+    "name": "Heritage Leather Watch",
+    "slug": "heritage-leather-watch",
+    "category": "Watches",
+    "price": 6499,
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.7,
+    "reviewCount": 86,
+    "stock": 23,
+    "description": "Classic styling meets a polished case for a watch that feels at home on any occasion.",
+    "details": [
+      "Leather-style strap",
+      "Comfort fit",
+      "Three-hand display"
+    ],
+    "isFeatured": true,
+    "_id": "000000000000000000000010",
+    "createdAt": "2026-11-11T00:00:00.000Z"
+  },
+  {
+    "name": "City Chrono",
+    "slug": "city-chrono",
+    "category": "Watches",
+    "price": 7999,
+    "originalPrice": 8999,
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.6,
+    "reviewCount": 38,
+    "stock": 11,
+    "description": "A sport-inspired watch with clean details and confident, versatile character.",
+    "details": [
+      "Easy-read dial",
+      "Modern case profile",
+      "Adjustable wrist fit"
+    ],
+    "isNew": true,
+    "_id": "000000000000000000000011",
+    "createdAt": "2026-11-10T00:00:00.000Z"
+  },
+  {
+    "name": "Slate Everyday Watch",
+    "slug": "slate-everyday-watch",
+    "category": "Watches",
+    "price": 4499,
+    "image": "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.5,
+    "reviewCount": 28,
+    "stock": 17,
+    "description": "A compact, versatile timepiece with an easy-to-style finish.",
+    "details": [
+      "Refined minimalist profile",
+      "Lightweight feel",
+      "Everyday wear"
+    ],
+    "isNew": true,
+    "_id": "000000000000000000000012",
+    "createdAt": "2026-11-09T00:00:00.000Z"
+  },
+  {
+    "name": "Studio Wireless Headphones",
+    "slug": "studio-wireless-headphones",
+    "category": "Electronics",
+    "price": 4999,
+    "originalPrice": 6499,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.9,
+    "reviewCount": 187,
+    "stock": 34,
+    "description": "Comfortable over-ear headphones with wireless freedom and a beautifully balanced listening experience.",
+    "details": [
+      "Wireless connectivity",
+      "Cushioned ear cups",
+      "Fold-flat design"
+    ],
+    "isFeatured": true,
+    "isOffer": true,
+    "_id": "000000000000000000000013",
+    "createdAt": "2026-11-08T00:00:00.000Z"
+  },
+  {
+    "name": "Pocket Audio Earbuds",
+    "slug": "pocket-audio-earbuds",
+    "category": "Electronics",
+    "price": 2799,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.7,
+    "reviewCount": 104,
+    "stock": 55,
+    "description": "Lightweight earbuds made for clear calls, music and everyday convenience.",
+    "details": [
+      "Compact charging case",
+      "Wireless listening",
+      "Comfortable in-ear fit"
+    ],
+    "isNew": true,
+    "isFeatured": true,
+    "_id": "000000000000000000000014",
+    "createdAt": "2026-11-07T00:00:00.000Z"
+  },
+  {
+    "name": "Compact Instant Camera",
+    "slug": "compact-instant-camera",
+    "category": "Electronics",
+    "price": 8999,
+    "originalPrice": 9999,
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.6,
+    "reviewCount": 43,
+    "stock": 13,
+    "description": "Capture everyday memories with an easy-to-use, travel-friendly camera.",
+    "details": [
+      "Simple controls",
+      "Compact body",
+      "Great for gifting"
+    ],
+    "isOffer": true,
+    "_id": "000000000000000000000015",
+    "createdAt": "2026-11-06T00:00:00.000Z"
+  },
+  {
+    "name": "Workday Laptop Sleeve",
+    "slug": "workday-laptop-sleeve",
+    "category": "Electronics",
+    "price": 1799,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.5,
+    "reviewCount": 31,
+    "stock": 40,
+    "description": "A clean, protective everyday sleeve for keeping your device close at hand.",
+    "details": [
+      "Soft inner lining",
+      "Slim profile",
+      "Easy to carry"
+    ],
+    "isNew": true,
+    "_id": "000000000000000000000016",
+    "createdAt": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "name": "Everywhere Canvas Tote",
+    "slug": "everywhere-canvas-tote",
+    "category": "Accessories",
+    "price": 1299,
+    "originalPrice": 1699,
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.8,
+    "reviewCount": 96,
+    "stock": 60,
+    "description": "A versatile everyday carryall with room for the little things and the not-so-little things.",
+    "details": [
+      "Roomy main compartment",
+      "Comfortable straps",
+      "Easy-care material"
+    ],
+    "isFeatured": true,
+    "isOffer": true,
+    "_id": "000000000000000000000017",
+    "createdAt": "2026-11-04T00:00:00.000Z"
+  },
+  {
+    "name": "Modern Daypack",
+    "slug": "modern-daypack",
+    "category": "Accessories",
+    "price": 2999,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.8,
+    "reviewCount": 71,
+    "stock": 27,
+    "description": "The reliable everyday backpack for short trips, commutes and everything in between.",
+    "details": [
+      "Organized compartments",
+      "Adjustable shoulder straps",
+      "Lightweight construction"
+    ],
+    "isFeatured": true,
+    "_id": "000000000000000000000018",
+    "createdAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "name": "Weekend Sunglasses",
+    "slug": "weekend-sunglasses",
+    "category": "Accessories",
+    "price": 1699,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.5,
+    "reviewCount": 44,
+    "stock": 36,
+    "description": "A timeless accessory designed to finish off a sunny-day look.",
+    "details": [
+      "Classic silhouette",
+      "Lightweight frame",
+      "Protective storage pouch"
+    ],
+    "isNew": true,
+    "_id": "000000000000000000000019",
+    "createdAt": "2026-11-02T00:00:00.000Z"
+  },
+  {
+    "name": "Fine Leather Wallet",
+    "slug": "fine-leather-wallet",
+    "category": "Accessories",
+    "price": 2199,
+    "originalPrice": 2699,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=1050&q=85",
+    "rating": 4.7,
+    "reviewCount": 53,
+    "stock": 33,
+    "description": "A simple, slim wallet designed to keep the essentials neatly organized.",
+    "details": [
+      "Slim, practical shape",
+      "Multiple card slots",
+      "Thoughtful finishing"
+    ],
+    "isOffer": true,
+    "_id": "000000000000000000000020",
+    "createdAt": "2026-11-01T00:00:00.000Z"
+  }
+]
